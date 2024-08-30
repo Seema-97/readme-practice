@@ -1,13 +1,5 @@
-# This project is made on React
-
-## Libraries used
--React
--MUI
+# ROck-Paper-Scissors Game
 
 ## Languages used 
 -HTML, CSS , JS 
 
-## concepts used 
-- fetch API data
-- React hooks
-- Array methods
